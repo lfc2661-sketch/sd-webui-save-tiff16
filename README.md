@@ -63,7 +63,7 @@ venv\Scripts\pip.exe install imageio
 
 | 項目 | 内容 |
 |---|---|
-| 保存先 / Location | PNG と同じフォルダ / Same folder as PNG |
+| 保存先 / Location | OUTPUTフォルダ / OUTPUT folder |
 | ファイル名 / Filename | `{seed}.tiff` |
 | 形式 / Format | RGB TIFF 16-bit (uint16) |
 
